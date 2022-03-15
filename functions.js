@@ -1,5 +1,4 @@
 export const insertAt = (arr, index, value) => {
-    console.log(arr, index);
     return [...arr.slice(0, index), value, ...arr.slice(index, arr.length)];
 }
 
