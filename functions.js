@@ -4,5 +4,5 @@ export const insertAt = (arr, index, value) => {
 }
 
 export const eraseAt = (arr, index) => {
-    return [...arr.slice(0, index-1), ...arr.slice(index+1, arr.length)]
+    return [...arr.slice(0, index), ...arr.slice(index+1, arr.length)]
 }

@@ -1,0 +1,23 @@
+{
+  "name": "opulib",
+  "version": "1.0.1",
+  "description": "a pure javascript methods/functions library these methods can be used in daily works",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MusiurAlam/opulib.git"
+  },
+  "keywords": [
+    "function",
+    "library"
+  ],
+  "author": "Musiur Alam Opu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MusiurAlam/opulib/issues"
+  },
+  "homepage": "https://github.com/MusiurAlam/opulib#readme"
+}

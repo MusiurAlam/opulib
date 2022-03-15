@@ -8,3 +8,4 @@ const opulib = {
 }
 
 module.exports.opulib = opulib;
+module.exports.arrayMethods = opulib.arrayMethods;
