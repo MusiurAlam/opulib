@@ -1,6 +1,6 @@
 {
   "name": "opulib",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "a pure javascript methods/functions library these methods can be used in daily works",
   "main": "index.js",
   "scripts": {
